@@ -26,12 +26,13 @@ p{
     left: 395px;
     top:145px;
   font-size:25px;
+  text-align:center;
 }
 ul{
   text-align:left;
 }
 body{
-   background: linear-gradient(90deg, purple, #81d8d0 , purple);
+   background: linear-gradient(90deg,  purple, #81d8d0 , purple);
 }
 .Heading{
    background: linear-gradient(90deg, #81d8d0, purple , #81d8d0);
