@@ -1,51 +1,16 @@
-body{
+html{
+  background: linear-gradient(90deg, purple, #81d8d0 , purple);
+}
+.center{
   text-align:center;
-  display:flex;
-}
-h1{
-  text-decoration:underline;
-  color:#81d8d0;
-}
-h3{
-  font-size:20px;
-  color:#81d8d0;
-}
-.Heading{
-  background-color:#D3D3D3;
-  border: ridge #00BFFF;
-  width:600px;
-  position: relative;
-    left: 380px;
-}
-p{
-  text-decoration:underline;
-  text-align:center;
-}
-.Main{
-  position: absolute;
-    left: 395px;
-    top:145px;
-  font-size:25px;
-  text-align:center;
-}
-ul{
-  text-align:left;
-}
-body{
-   background: linear-gradient(90deg,  purple, #81d8d0 , purple);
-}
-.Heading{
-   background: linear-gradient(90deg, #81d8d0, purple , #81d8d0);
+  margin:auto;
+  width:55%;
 }
 table,td {
   border:5px inset purple;
   background:#81d8d0;
-  padding:15px;
-  position: relative;
-    left:-430px;
-    top:360px;
+  padding:10px;
+} 
+ul,li {
   font-size:25px;
-}
-.Center{
-  text-align: center;
 }
